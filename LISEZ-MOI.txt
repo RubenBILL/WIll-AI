@@ -1,0 +1,5 @@
+Will-AI - appli web installable (revision Licence 3 Developpement, IA et Big Data)
+
+1. Mets TOUT le contenu de ce dossier sur un hebergement HTTPS gratuit (Netlify Drop, Cloudflare Pages, GitHub Pages...).
+2. Ouvre l'adresse sur le telephone : Partager > "Sur l'ecran d'accueil" (iPhone) ou menu > "Installer l'application" (Android).
+3. Reglages > colle ta cle API Gemini (gratuite, aistudio.google.com > Get API key) puis "Tester la cle". Elle reste sur ton telephone.
